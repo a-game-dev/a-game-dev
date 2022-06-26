@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a-game-dev
 - 👀 I’m interested in mobile games, i am professional game developer & mainly works with Unity with C#
-- 🌱 I’m currently learning Aws, TypeScript, NodeJS
+- 🌱 I’m currently learning Aws, Java, C++, NodeJS
 - 💞️ I’m looking to collaborate on multiplayer casual games.
 - 📫 How to reach me - drop me a mail at irevolcorp<at>gmail.com
 
